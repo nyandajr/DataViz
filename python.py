@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-data = pd.read_csv("mobile_money_dataset_extended_with_ids.csv")
+data = pd.read_csv("mobile.csv")
 
 # Title of the Streamlit app
 st.title("Mobile Money Usage Analysis")
